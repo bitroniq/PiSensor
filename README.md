@@ -36,7 +36,7 @@ Install/Setup
 
 References
 ----------
-[RaspberryPi DS tutorial](http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/temperature/)
-[PiThermServer](https://github.com/talltom/PiThermServer)
+* [RaspberryPi DS tutorial](http://www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/temperature/)
+* [PiThermServer](https://github.com/talltom/PiThermServer)
 
 
